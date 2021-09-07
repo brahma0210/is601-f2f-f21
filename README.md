@@ -1,1 +1,2 @@
-# is601-f2f-f21
+# hello IS601 Fall 2021
+## this is the introduction to git source code management
